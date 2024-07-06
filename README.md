@@ -1,4 +1,4 @@
 ## Mathematics Instructional Materials
 This repository contains instructional materials that I have created and will continue to add.
 
-* [Triangles](https://duyapat-christony.github.io/teaching_math/triangles.html) - This is an interactive game map that integrates video lessons and activities on types of triangles according to angles and sides.
+* <a href="https://duyapat-christony.github.io/teaching_math/triangles.html" target="_blank">Classifications of Triangles</a> - This interactive game map combines video lessons and activities to teach the different types of triangles based on their angles and sides.
