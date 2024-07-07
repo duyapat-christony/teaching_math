@@ -1,5 +1,0 @@
-<br class="center" /><img src='graphics/column31.png'/>
-<br class="center" /><img src='graphics/column32.png'/>
-<br class="center" /><img src='graphics/column33.png'/>
-<br class="center" /><img src='graphics/column34.png'/>
-<br class="center" /><img src='graphics/column35.png'/>
