@@ -1,4 +1,4 @@
-## [Christony Duyapat](https://duyapat-christony.github.io)
+# [Christony Duyapat](https://duyapat-christony.github.io)
 
 ### Mathematics Instructional Materials
 This repository contains instructional materials that I have created and will continue to add.
